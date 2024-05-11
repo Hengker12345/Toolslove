@@ -20,17 +20,17 @@ if [[ "$Renepep123" = "Ren9999" || "$Renepep" = "sistem" ]]; then
 sleep 1
 clear
 sleep 1
-echo -e "  ████████╗░█████╗░░█████╗░██╗░░░░░░██████╗░░██╗██╗░░██╗██╗░░██╗██╗"
-echo -e "  ╚══██╔══╝██╔══██╗██╔══██╗██║░░░░░██╔════╝░██╔╝██║░██╔╝██║░██╔╝██║"
-echo -e "  ░░░██║░░░██║░░██║██║░░██║██║░░░░░╚█████╗░██╔╝░██║██╔╝░██║██╔╝░██║"
-echo -e "  ░░░██║░░░██║░░██║██║░░██║██║░░░░░░╚═══██╗███████║███████║███████║"
-echo -e "  ░░░██║░░░╚█████╔╝╚█████╔╝███████╗██████╔╝╚════██║╚════██║╚════██║"
-echo -e "  ░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝╚═════╝░░░░░░╚═╝░░░░░╚═╝░░░░░╚═╝"
+echo -e "  ████████╗░█████╗░░█████╗░██╗░░░░░░██████╗██████╗░███████╗███╗░░██╗"
+echo -e "  ╚══██╔══╝██╔══██╗██╔══██╗██║░░░░░██╔════╝██╔══██╗██╔════╝████╗░██║"
+echo -e "  ░░░██║░░░██║░░██║██║░░██║██║░░░░░╚█████╗░██████╔╝█████╗░░██╔██╗██║"
+echo -e "  ░░░██║░░░██║░░██║██║░░██║██║░░░░░░╚═══██╗██╔══██╗██╔══╝░░██║╚████║"
+echo -e "  ░░░██║░░░╚█████╔╝╚█████╔╝███████╗██████╔╝██║░░██║███████╗██║░╚███║"
+echo -e "  ░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚══╝"
 echo -e " "
 echo
 echo -e "                          By: Ren9999 ☕🗿"
 echo -e "                ________________________________________"
-echo -e "               |         𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐓𝐎𝐎𝐋𝐒𝟒𝟒𝟒          |"
+echo -e "               |         𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐓𝐎𝐎𝐋𝐒𝐑𝐄𝐍         |"
 echo -e "               |                                        |"
 echo -e "               __________________________________________"
 echo -e "               |                                        |"
@@ -62,8 +62,8 @@ echo -e "               | FOLLOW                                 |"
 echo -e "               | LAPORKAN BUG                           |"
 echo -e "               |________________________________________|"
 echo
-read -p "               PILIH MENU:" HOOH
-if [ $HOOH == 1 ]
+read -p "               PILIH MENU:" ren9999☠️☠️☠️
+if [ $ren9999☠️☠️☠️ == 1 ]
 then
 clear
 sleep 1
@@ -78,7 +78,7 @@ pip3 install -r requirements.txt
 python3 anonymous-c2.py
 fi
 
-if [ $HOOH == 3 ]
+if [ $ren9999 == 3 ]
 then
 clear
 sleep 1
@@ -90,21 +90,21 @@ pkg install  git
  python spam.py
 fi
 
-if [ $HOOH == 5 ]
+if [ $ren9999 == 5 ]
 then
 clear
 sleep 1
 xdg-open "https://drive.google.com/file/d/152fTXoG9IEsp1unLH47Ap1mV3AvpsYYX/view?usp=drivesdk"
 fi
 
-if [ $HOOH == 7 ]
+if [ $ren9999 == 7 ]
 then
 clear
 sleep 1
 xdg-open "https://drive.google.com/file/d/14V3b11fDLTNzddSKTdVZiNlDwK7JBTjD/view?usp=drivesdk"
 fi
 
-if [ $HOOH == 9 ]
+if [ $ren9999 == 9 ]
 then
 clear
 sleep 1
@@ -113,7 +113,7 @@ cd zphisher
 bash zphisher.sh
 fi
 
-if [ $HOOH == 11 ]
+if [ $ren9999 == 11 ]
 then
 clear
 sleep 1
@@ -126,14 +126,14 @@ pip2 install -r requirements.txt
 python2 malicious.py
 fi
 
-if [ $HOOH == 2 ]
+if [ $ren9999 == 2 ]
 then
 clear
 sleep 1
 xdg-open "https://www.mediafire.com/file/f52nygbxa8kb580/node_modules.zip/file"
 fi
 
-if [ $HOOH == 4 ]
+if [ $ren9999 == 4 ]
 then
 clear
 sleep 1
@@ -146,7 +146,7 @@ chmod +x install-nethunter-modified
 ./install-nethunter-modified
 fi
 
-if [ $HOOH == 6 ]
+if [ $ren9999 == 6 ]
 then
 clear
 sleep 1
@@ -159,7 +159,7 @@ bash install-desktop-lxqt.sh
 start-desktop
 fi
 
-if [ $HOOH == 8 ]
+if [ $ren9999 == 8 ]
 then
 clear
 sleep 1
@@ -172,7 +172,7 @@ pip install -r requirements.txt
 python run.py
 fi
 
-if [ $HOOH == 10 ]
+if [ $ren9999 == 10 ]
 then
 clear
 sleep 1
@@ -186,7 +186,7 @@ pip install -r requirements.txt
 python main.py
 fi
 
-if [ $HOOH == 12 ]
+if [ $ren9999 == 12 ]
 then
 clear
 sleep 1
@@ -200,7 +200,7 @@ cd Tools-WhatsApp
 python main.py
 fi
 
-if [ $HOOH == 13 ]
+if [ $ren9999 == 13 ]
 then
 clear
 sleep 1
@@ -213,7 +213,7 @@ ls
 python3 DRipper.py
 fi
 
-if [ $HOOH == 14 ]
+if [ $ren9999 == 14 ]
 then
 clear
 sleep 1
@@ -222,7 +222,7 @@ cd TOOLS999
 bash TOOLS999.sh
 fi
 
-if [ $HOOH == 15 ]
+if [ $ren9999 == 15 ]
 then
 clear
 sleep 1
@@ -235,7 +235,7 @@ python3 dx.py
 python3 dx-web.py
 fi
 
-if [ $HOOH == 16 ]
+if [ $ren9999 == 16 ]
 then
 clear
 sleep 1
@@ -247,7 +247,7 @@ cd BLACKV1
 bash BLACKV1.sh
 fi
 
-if [ $HOOH == 17 ]
+if [ $ren9999 == 17 ]
 then
 clear
 sleep 1
@@ -257,7 +257,7 @@ cd hackCCTV
 python3 hackcctv.py
 fi 
 
-if [ $HOOH == 18 ]
+if [ $ren9999 == 18 ]
 then
 clear
 sleep 1
@@ -269,7 +269,7 @@ cd SpamWa
 python3 spam.py
 fi
 
-if [ $HOOH == 19 ]
+if [ $ren9999 == 19 ]
 then
 clear
 sleep 1
@@ -279,7 +279,7 @@ chmod +x webcamphish.sh
 ./webcamphish.sh
 fi
 
-if [ $HOOH == 20 ]
+if [ $ren9999 == 20 ]
 then
 clear
 sleep 1
@@ -291,7 +291,7 @@ ubuntu
 desktop-mod.sh
 fi
 
-if [ $HOOH == 21 ]
+if [ $ren9999 == 21 ]
 then
 clear
 sleep 1
@@ -301,7 +301,7 @@ pip3 install -r requirements.txt
 python3 main.py
 fi
 
-if [ $HOOH == 22 ]
+if [ $ren9999 == 22 ]
 then
 clear
 sleep1
@@ -314,7 +314,7 @@ pip3 install -r install.txt
 python3 brutal.py
 fi
 
-if [ $HOOH == 23 ]
+if [ $ren9999 == 23 ]
 then
 clear
 sleep1
@@ -339,7 +339,7 @@ sleep 5
 python owlsint.py
 fi
 
-if [ $HOOH == 24 ]
+if [ $ren9999 == 24 ]
 then
 clear
 sleep1
@@ -356,7 +356,7 @@ cd BAJINGANv6
 sh BAJINGAN.sh
 fi
 
-if [ $HOOH == 25 ]
+if [ $ren9999 == 25 ]
 then
 clear
 sleep 1
@@ -368,7 +368,7 @@ sh install.sh
 sh sdv.sh
 fi
 
-if [ $HOOH == 26 ]
+if [ $ren9999 == 26 ]
 then
 clear
 sleep 1
@@ -385,7 +385,7 @@ python TZsec7.py
 Spam
 fi
 
-if [ $HOOH == 27 ]
+if [ $ren9999 == 27 ]
 then
 clear
 sleep 1
@@ -402,7 +402,7 @@ make install
 ./main
 fi
 
-if [ $HOOH == 28 ]
+if [ $ren9999 == 28 ]
 then
 clear
 sleep 1
@@ -415,7 +415,7 @@ cd v1.2
 php daijobu.php
 fi
 
-if [ $HOOH == 29 ]
+if [ $ren9999 == 29 ]
 then
 clear
 sleep 1
@@ -428,7 +428,7 @@ cd Lazymux
 python lazymux.py
 fi
 
-if [ $HOOH == 30 ]
+if [ $ren9999 == 30 ]
 then
 clear
 sleep 1
@@ -437,7 +437,7 @@ cd XPHISHER
 bash xphisher.sh
 fi
 
-if [ $HOOH == 31 ]
+if [ $ren9999 == 31 ]
 then
 clear
 sleep 1
@@ -449,7 +449,7 @@ pip install -r requirements.txt
 python WhatsappBot.py
 fi 
 
-if [ $HOOH == 32 ]
+if [ $ren9999 == 32 ]
 then
 clear
 sleep 1
@@ -463,7 +463,7 @@ chmod +x aarch64
 ./aarch64
 fi
 
-if [ $HOOH == 33 ]
+if [ $ren9999 == 33 ]
 then
 clear
 sleep 1
@@ -478,7 +478,7 @@ bash setup
 bash hack_camera.sh
 fi
 
-if [ $HOOH == 34 ]
+if [ $ren9999 == 34 ]
 then
 clear
 sleep 1
@@ -491,7 +491,7 @@ pip install -r install.txt
 python brutal.py
 fi
 
-if [ $HOOH == 35 ]
+if [ $ren9999 == 35 ]
 then
 clear
 sleep 1
@@ -501,7 +501,7 @@ pip install -r requirements.txt
 python3 ddos.py
 fi
 
-if [ $HOOH == 36 ]
+if [ $ren9999 == 36 ]
 then
 clear
 sleep 1
@@ -511,7 +511,7 @@ bash install.sh
 python DDos.py
 fi
 
-if [ $HOOH == 37 ]
+if [ $ren9999 == 37 ]
 then
 clear
 sleep 1
@@ -521,14 +521,14 @@ pip install -r requirements.txt
 python3 main.py
 fi
 
-if [ $HOOH == 38 ]
+if [ $ren9999 == 38 ]
 then
 clear
 sleep 1
 xdg-open "https://www.mediafire.com/file/2gfa9gekyhcihgj/Virtex_WA_Slayer.txt/file"
 fi
 
-if [ $HOOH == 39 ]
+if [ $ren9999 == 39 ]
 then
 clear
 sleep 1
@@ -537,7 +537,7 @@ cd DDos-Blitz
 bash setup.sh
 fi
 
-if [ $HOOH == 40 ]
+if [ $ren9999 == 40 ]
 then
 clear
 sleep 1
@@ -547,7 +547,7 @@ bash setup.sh
 python3 warlof.py --help
 fi
 
-if [ $HOOH == 41 ]
+if [ $ren9999 == 41 ]
 then
 clear
 pkg update
@@ -559,7 +559,7 @@ cd auto-deface
 python2 auto-deface.py
 fi
 
-if [ $HOOH == 42 ]
+if [ $ren9999 == 42 ]
 then
 clear
 apt update
@@ -571,7 +571,7 @@ cd IP-FINDER
 python2 ip-finder.py
 fi
 
-if [ $HOOH == 43 ]
+if [ $ren9999 == 43 ]
 then
 clear
 termux-setup-storage
@@ -584,7 +584,7 @@ cd NETHUNTER
 bash NETHUNTER.sh
 fi
 
-if [ $HOOH == 44 ]
+if [ $ren9999 == 44 ]
 then
 clear
 pkg upgrade && pkg update
@@ -596,7 +596,7 @@ cd zefbot
 python zefbot.py
 fi
 
-if [ $HOOH == UPDATE ]
+if [ $ren9999 == UPDATE ]
 then
 clear
 sleep 1
@@ -605,7 +605,7 @@ cd ToolsRen
 bash ren999.sh
 fi
 
-if [ $HOOH == FOLLOW ]
+if [ $ren9999 == FOLLOW ]
 then
 clear
 sleep 1
@@ -615,7 +615,7 @@ echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK AKU☺☺☺"
 echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK AKU☺☺☺"
 fi
 
-if [ $HOOH == LAPORKAN BUG ]
+if [ $ren9999 == LAPORKAN BUG ]
 then
 clear
 sleep 1

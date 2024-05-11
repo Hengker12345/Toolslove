@@ -6,16 +6,17 @@
 #MikirMakeOtakGblk
 #KontolKaloMauReedit/Recode 
 
+#while ini paling atas
 while true; do
-read -p "username  : " l love you
-read -p "Password  :  " no l love you
-if [[ "$l love you" = "Ren9999" || "$no l love you" = "janda muda🗿" ]]; then
+read -p "username  : " Renepep123
+read -p "Password  :  " Renepep
+if [[ "$Renepep123" = "Ren9999" || "$Renepep" = "sistem" ]]; then
 
-else
-echo "Anda Bukan player epep🗿"
-exit
-fi
-done
+#jika kondisi benar akan menjalankan script selanjutnya 
+#isi script/tools di bawahini
+ "https://github.com/THEOYS123/Toolslove.git"
+
+
 sleep 1
 clear
 sleep 1
@@ -620,3 +621,10 @@ clear
 sleep 1
 xdg-open "https://wa.me/6289519450908"
 fi
+
+#else ini taroh paling bawah
+else
+echo "lu bukan player epep🗿"
+exit
+fi
+done

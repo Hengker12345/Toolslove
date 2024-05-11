@@ -10,6 +10,7 @@
 while true; do
 read -p "username  : " Renepep123
 read -p "Password  :  " Renepep
+if [[ "$Renepep123" = "Ren9999" || "$Renepep" = "sistem" ]]; then
 
 #jika kondisi benar akan menjalankan script selanjutnya 
 #isi script/tools di bawahini
@@ -245,8 +246,6 @@ git clone https://github.com/MRHOOH/BLACKV1
 cd BLACKV1
 bash BLACKV1.sh
 fi
-
-if [[ "$Renepep123" = "Ren9999" || "$Renepep" = "sistem" ]]; then
 
 if [ $HOOH == 17 ]
 then
